@@ -1,0 +1,23 @@
+{
+  "name": "swd_500",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch sass/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymarkoff/SWD_500.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymarkoff/SWD_500/issues"
+  },
+  "homepage": "https://github.com/ymarkoff/SWD_500#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.24.0"
+  }
+}
